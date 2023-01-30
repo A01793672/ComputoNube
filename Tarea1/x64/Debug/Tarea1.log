@@ -1,0 +1,6 @@
+﻿  Tarea1.cpp
+C:\Users\fredd\Downloads\Tercer Trimestre\Computo en la Nube\ProyectosOMP\Tarea1\Tarea1.cpp(20,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fredd\Downloads\Tercer Trimestre\Computo en la Nube\ProyectosOMP\Tarea1\Tarea1.cpp(22,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fredd\Downloads\Tercer Trimestre\Computo en la Nube\ProyectosOMP\Tarea1\Tarea1.cpp(23,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fredd\Downloads\Tercer Trimestre\Computo en la Nube\ProyectosOMP\Tarea1\Tarea1.cpp(14,5): warning C4101: 'i': unreferenced local variable
+  Tarea1.vcxproj -> C:\Users\fredd\Downloads\Tercer Trimestre\Computo en la Nube\ProyectosOMP\Tarea1\x64\Debug\Tarea1.exe
